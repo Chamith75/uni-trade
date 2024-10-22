@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# 🚀 Uni-Trade App
+A marketplace for students to buy and sell pre-owned items within their college community.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
